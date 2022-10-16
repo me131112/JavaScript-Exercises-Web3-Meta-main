@@ -1,0 +1,1 @@
+console.log("Comments are very helpful in understand code") //Printing a string sentence
